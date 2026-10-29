@@ -1,0 +1,252 @@
+li{
+    margin:0px auto;
+    padding: 5px;
+    display:inline-block;
+    box-sizing: border-box;
+   
+
+
+  
+}
+
+ul>li{
+   width: 30px;
+   height: 20x;
+   margin: 1px auto;
+   word-spacing: 100em;
+   
+} 
+
+button{
+    border-radius: 15px;
+    background-color: green;
+    color: aliceblue;
+    border:  5px solid green;
+    display: inline-block;
+    width: 200px;
+    height:1px;
+    padding:3px 5px 25px 5px;
+    font-size: large;
+    text-align: center;
+   
+   
+
+}
+ul{
+   
+    width: 100%;
+    box-sizing: border-box; 
+ margin: 0px auto;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+
+
+.btn{
+    text-align:end;
+}
+
+.asp{
+   text-decoration: none;
+    display: inline-block;
+    font-size: large;
+    font-weight: bold;
+     color: black;
+
+}
+.bsp{
+  
+    display: inline-block;
+    font-size: medium;
+    font-weight: bold;
+     color:green;
+}
+.z{
+vertical-align:middle;
+}
+table
+{
+    margin: 100px auto;
+}
+
+   
+span{
+    font-weight: bold;
+    color: black;
+    font-size: xx-large;
+}
+.y{
+    color: green;
+}
+.first{
+    background-color: rgb(244, 248, 246);
+    margin: 0px auto;
+    width: 100%;
+    box-sizing: border-box;
+    
+}
+body{
+    margin-top:0px;
+}
+.our{
+    background-color: rgb(193, 239, 193);
+    border-radius: 15px;
+    color: darkgreen;
+    padding: 4px 8px 4px 8px;
+    display: inline-block;
+}
+.second{
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+     margin:100px auto ;
+}
+
+.people{
+    font-size: xx-large;
+    color: black;
+}
+.raised{
+    color: green;
+    font-size: medium;
+}
+.ttl{
+    color: grey;
+}
+.m {
+    background-color:white;
+    
+    border-radius: 35px;
+    width: 100px;
+    height: 50px;
+}
+.third{
+    background-color: rgb(244, 248, 246);
+    width: 100%;
+     margin:100px auto ;
+}
+
+img{
+    border-radius: 5px;
+}
+.n{
+    border-radius: 45px;
+background-color: white;
+width: 300px;
+height: 200px;
+margin: 40px auto;
+
+
+}
+.dv{
+     
+    width: 100%;
+     margin: 100px auto ;
+      background-color: rgb(244, 248, 246);
+}
+.head{
+   border-radius: 30px;
+    background-color: rgb(227, 244, 227);
+    color: darkgreen;
+ 
+}
+progress{
+color: rgb(43, 99, 52);
+}
+.touch{
+    line-height: 4px;
+}
+.sixth{
+     background-color: rgb(244, 248, 246);
+    width: 100%;
+     margin:100px auto ;
+   
+}
+.map{
+    
+    border-radius: 45px;
+background-color: white;
+max-width: 300px;
+height: 200px;
+margin: 40px auto;
+box-sizing: border-box;
+width: 100%;
+}
+.fm {
+   max-width: 400px;
+    height: 400px;
+    padding: 20px;
+    border: 1px solid rgb(253, 252, 252);
+    width: 100%;
+}
+.but{
+    border-radius: 15px;
+    background-color: rgb(19, 130, 19);
+    
+    border:  5px solid green;
+    display: inline-block;
+   max-width: 400px;
+    height:1px;
+    padding:3px 5px 25px 5px;
+    font-size: large;
+    text-align: center;
+    color: azure;
+    width: 100%;
+}
+.last{
+    background: linear-gradient(
+  135deg,
+  #0b1220 0%,
+  #0a1320 45%,
+  #07191c 75%,
+  #0b1220 100%);
+  max-width: 100%;
+  height: auto;
+  color: gray;
+  text-decoration: none;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.links{
+    color: gray;
+    font-size: 14px;
+}
+.lt{
+  max-width:100%; 
+    height: auto;
+  
+    box-sizing: border-box;
+    text-align: center;
+  
+}
+.ql{
+    color: antiquewhite;
+  font-family: sans-serif;
+    font-size: large;
+}
+.bl{
+   
+  
+    
+    box-sizing: border-box;
+    text-align: center;
+    margin: 0 auto;
+}
+.we{
+    color: green;
+    font-family: sans-serif;
+    font-size: large;
+}
+nav{
+    margin: 0px auto;
+    width: 100%;
+    box-sizing: border-box;
+    
+}
+textarea{
+    height: 200px;
+  box-sizing: border-box;
+}
